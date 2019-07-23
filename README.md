@@ -1,8 +1,6 @@
 # Shell
 
-# Surun  
 
-###### (Surya + Varun ;) )
 #### Running a test program 
 
 ##### Use this to run on terminal
